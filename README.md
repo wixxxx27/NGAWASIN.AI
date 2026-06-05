@@ -20,10 +20,10 @@ Proyek ini dikembangkan sebagai tugas akhir **UAS (Ujian Akhir Semester) mata ku
 
 ### 👥 Anggota Kelompok
 
-| Nama Anggota | NPM | Peran / Kontribusi |
-| :--- | :---: | :--- |
-| **Dwiyandra Raysha Putra Syawal** | `2410631170069` | AI Modeling & Core Logic Developer |
-| **Ananda Fahrizal Assidiq** | `2410631170007` | UI/UX Terminal Dashboard & Audio Integrator |
+| Nama Anggota | NPM |
+| :--- | :---: |
+| **Dwiyandra Raysha Putra Syawal** | `2410631170069` |
+| **Ananda Fahrizal Assidiq** | `2410631170007` |
 
 ---
 
