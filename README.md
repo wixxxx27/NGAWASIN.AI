@@ -20,10 +20,10 @@ Proyek ini dikembangkan sebagai tugas akhir **UAS (Ujian Akhir Semester) mata ku
 
 ### 👥 Anggota Kelompok
 
-| Foto / Avatar | Nama Anggota | NPM | Peran / Kontribusi |
-| :---: | :--- | :---: | :--- |
-| <img src="https://github.com/identicons/dwiyandra.png" width="50" height="50" style="border-radius:50%;" /> | **Dwiyandra Raysha Putra Syawal** | `2410631170069` | AI Modeling, Core Logic & HUD Developer |
-| <img src="https://github.com/identicons/ananda.png" width="50" height="50" style="border-radius:50%;" /> | **Ananda Fahrizal Assidiq** | `2410631170007` | UI/UX Terminal Dashboard & Audio Integration |
+| Nama Anggota | NPM | Peran / Kontribusi |
+| :--- | :---: | :--- |
+| **Dwiyandra Raysha Putra Syawal** | `2410631170069` | AI Modeling & Core Logic Developer |
+| **Ananda Fahrizal Assidiq** | `2410631170007` | UI/UX Terminal Dashboard & Audio Integrator |
 
 ---
 
@@ -138,4 +138,17 @@ python -m src status
     Jika program berhenti dengan error kamera, pastikan webcam Anda tidak sedang digunakan oleh aplikasi lain (seperti Zoom, Google Meet, dll). Jika Anda memiliki beberapa kamera (misal webcam eksternal), coba ubah indeks kamera pada baris `cap = cv2.VideoCapture(0)` di berkas [detector.py](file:///c:/Users/wixx/Downloads/ngawasin-ai/ngawasin-ai/src/detector.py#L64) menjadi `1` atau `2`.
 *   **Suara Alarm Tidak Terdengar**:
     Pastikan berkas `jokowi-kaget.mp3` berada di direktori root yang sama dengan folder `src`. Pastikan juga volume audio komputer Anda aktif dan driver audio Anda sudah terinstal.
+
+---
+
+## 🤝 Kontribusi
+
+Proyek ini dibuat untuk keperluan akademis mata kuliah Kecerdasan Buatan. Namun, masukan, saran perbaikan bug, atau penambahan fitur baru sangat kami apresiasi!
+
+Langkah untuk berkontribusi:
+1. **Fork** repositori ini.
+2. Buat branch baru untuk fitur Anda (`git checkout -b fitur/FiturBaru`).
+3. Commit perubahan Anda (`git commit -m 'Menambahkan Fitur Baru'`).
+4. Push ke branch tersebut (`git push origin fitur/FiturBaru`).
+5. Buat **Pull Request**.
 
