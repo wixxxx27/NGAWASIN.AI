@@ -60,7 +60,8 @@ ngawasin-ai/
     ├── __init__.py           # File inisialisasi paket Python
     ├── __main__.py           # Entry point eksekusi paket
     ├── main.py               # Pemroses argument CLI (start / status)
-    └── detector.py           # Logika utama deteksi & dashboard HUD
+    ├── detector.py           # Logika utama deteksi & dashboard HUD
+    └── NGAWASIN_Training.ipynb # Jupyter Notebook proses training model YOLOv8
 ```
 
 ---
