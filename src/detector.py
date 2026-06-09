@@ -13,7 +13,7 @@ class NgawasinDetector:
         self.is_running = False
         self.ai_enabled = True
         self.audio_enabled = True
-        self.selected_sound = 'jokowi-kaget.mp3'
+        self.selected_sound = 'kaget.mp3'
         
         # STATE UNTUK ALARM AKTIF
         self.distraction_active = False
