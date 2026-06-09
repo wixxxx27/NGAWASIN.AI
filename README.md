@@ -141,15 +141,3 @@ python -m src status
     Pastikan berkas `jokowi-kaget.mp3` berada di direktori root yang sama dengan folder `src`. Pastikan juga volume audio komputer Anda aktif dan driver audio Anda sudah terinstal.
 
 ---
-
-## 🤝 Kontribusi
-
-Proyek ini dibuat untuk keperluan akademis mata kuliah Kecerdasan Buatan. Namun, masukan, saran perbaikan bug, atau penambahan fitur baru sangat kami apresiasi!
-
-Langkah untuk berkontribusi:
-1. **Fork** repositori ini.
-2. Buat branch baru untuk fitur Anda (`git checkout -b fitur/FiturBaru`).
-3. Commit perubahan Anda (`git commit -m 'Menambahkan Fitur Baru'`).
-4. Push ke branch tersebut (`git push origin fitur/FiturBaru`).
-5. Buat **Pull Request**.
-
